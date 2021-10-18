@@ -22,8 +22,8 @@ What you're app must have :
 
 Your can see the final view of your app
 
+![IMG_4703](https://user-images.githubusercontent.com/6766037/137682346-abc35151-6172-4786-8fcf-cc732eadf688.PNG)
 
-![IMG_4703](https://user-images.githubusercontent.com/6766037/137682009-9f8c30e6-2a4f-4cc1-b8cf-29eceb882f64.PNG)
 
 ## Part 2 : Use Generics
 
